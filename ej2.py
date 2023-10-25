@@ -41,3 +41,7 @@ plt.ylabel('y')
 plt.title('Soluciones de la Ecuación Diferencial')
 plt.legend()
 plt.show()
+plt.close()
+plt.clf()   # limpiar la gráfica
+plt.cla()   # limpiar el eje    
+plt.close() # cerrar la ventana 
